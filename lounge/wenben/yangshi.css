@@ -5,11 +5,11 @@ body {
        font-size: 14px;
 }
 body {
-      color: silver;
+      color: rgb(11,12,56);;
 }
 body {
-      font-weight: bold;
+      font-weight: normal;
 }
 body {
-      text-decoration: underline;
+      text-decoration: line-through;
 }
