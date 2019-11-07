@@ -4,6 +4,11 @@ body {
   line-height: 1.6em;
 }
 
+.elixirs  {
+  width: 200px;
+  float: right;
+}
+
 h1, h2 {
   color: #007e7e;
 }
@@ -62,4 +67,30 @@ h2 {
 
 .artist {
       font-weight: bold;
+}
+
+.elixirs a:link {
+     color: #007e7e;
+}
+
+.elixirs a:visited {
+     color: #333333;
+}
+
+.elixirs a:hover {
+     background: #f88396;
+     color: #0d5353;
+}
+
+#guarantee a:link {
+  color: #007e7e;
+}
+
+#guarantee a:visited {
+  color: #333333;
+}
+
+#guarantee a:hover {
+  background: #f88396;
+  color: #0d5353;
 }
