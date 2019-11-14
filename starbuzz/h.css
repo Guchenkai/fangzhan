@@ -1,0 +1,16 @@
+.all {
+    position:    relative;
+    height:      500px;
+    width:       100px;
+    border:      1px solid  black;
+    left:        50px;
+}
+
+.one {
+    position:    absolute;
+    height:      300px;
+    width:       100px;
+    border:      1px  solid  black;
+    top:         100px;
+    left:        500px;
+}
