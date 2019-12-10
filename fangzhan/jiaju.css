@@ -1,0 +1,12 @@
+li {
+  list-style-type: none;
+
+}
+
+ul li {
+  display: inline;
+  content: "[";
+  left: 5px;
+  font-family: "A1明朝";
+
+}
